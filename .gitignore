@@ -1,0 +1,17 @@
+# Eclipse workspace
+.metadata/
+Servers/
+
+# Compiled Java files
+*.class
+**/build/
+**/bin/
+**/target/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
